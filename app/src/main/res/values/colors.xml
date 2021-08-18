@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#48DBFB</color>
+    <color name="colorPrimaryDark">#24A6C3</color>
+    <color name="colorAccent">#ff5722</color>
+    <color name="megaman">#48DBFB</color>
+    <color name="putih">#FFFFFF</color>
+    <color  name="hitam">#000000</color>
+</resources>
